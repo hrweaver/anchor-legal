@@ -73,9 +73,9 @@ To delete your data:
 1. Uninstall the app (local data is removed)
 2. Contact us to request server data deletion
 
-## Children's Privacy
+## Age Requirement
 
-Anchor is not intended for children under 13. We do not knowingly collect information from children under 13.
+Anchor is intended for users 18 years of age or older. We do not knowingly collect information from anyone under 18. If you are under 18, please do not use this app.
 
 ## Changes to This Policy
 

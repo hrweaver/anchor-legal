@@ -17,7 +17,7 @@ Anchor is a free app designed to help you:
 
 ## 3. Eligibility
 
-You must be at least 13 years old to use Anchor. By using the app, you represent that you meet this requirement.
+You must be at least 18 years old to use Anchor. By using the app, you represent that you meet this requirement.
 
 ## 4. User Responsibilities
 
