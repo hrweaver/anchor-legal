@@ -2,6 +2,8 @@
 
 **Last updated: December 29, 2024**
 
+*Version 1.1 - Updated data retention section for accuracy*
+
 Anchor ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use the Anchor app.
 
 ## Information We Collect
@@ -59,7 +61,7 @@ Your data is stored securely on Firebase servers (Google Cloud Platform). We imp
 
 - **Active accounts**: Data is retained while you use the app
 - **Deleted accounts**: Data is deleted upon request
-- **Usage data**: Rolling 7-day history
+- **Usage data display**: The app shows usage from the last 7 days to you and your partner
 
 ## Your Rights
 
