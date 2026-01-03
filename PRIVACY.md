@@ -1,8 +1,8 @@
 # Privacy Policy
 
-**Last updated: December 29, 2024**
+**Last updated: January 3, 2025**
 
-*Version 1.1 - Updated data retention section for accuracy*
+*Version 1.2 - Added detailed Accessibility Service usage disclosure for Play Store compliance*
 
 Anchor ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use the Anchor app.
 
@@ -26,6 +26,26 @@ This data is used to:
 - **Device tokens**: For sending push notifications
 - **Accessibility service status**: Whether app blocking is enabled
 - **Default launcher status**: Whether Anchor is set as your home screen
+
+## Accessibility Service Usage
+
+Anchor requires Android's Accessibility Service to provide its core app-blocking functionality. This section explains exactly how we use this permission.
+
+### What the Accessibility Service DOES:
+- Detects when you open an app (receives "window state changed" events)
+- Checks if the app is on your blocked list or has exceeded its time limit
+- Redirects you to your home screen if the app is blocked
+
+### What the Accessibility Service does NOT do:
+- Read any text on your screen
+- Access passwords, messages, or personal content
+- Record or transmit screen contents
+- Collect any data beyond app package names
+- Function when Anchor is uninstalled
+
+**Technical details**: Anchor only listens for `TYPE_WINDOW_STATE_CHANGED` events and has `canRetrieveWindowContent` set to `false`, meaning it cannot read screen content even if it wanted to.
+
+This permission is essential for the app to work—without it, Anchor cannot block apps or enforce time limits.
 
 ## How We Use Your Information
 
