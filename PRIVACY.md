@@ -1,8 +1,8 @@
 # Privacy Policy
 
-**Last updated: January 3, 2025**
+**Last updated: January 8, 2026**
 
-*Version 1.2 - Added detailed Accessibility Service usage disclosure for Play Store compliance*
+*Version 1.3 - Added anonymous usage statistics disclosure*
 
 Anchor ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use the Anchor app.
 
@@ -26,6 +26,14 @@ This data is used to:
 - **Device tokens**: For sending push notifications
 - **Accessibility service status**: Whether app blocking is enabled
 - **Default launcher status**: Whether Anchor is set as your home screen
+
+### Anonymous Usage Statistics
+To understand how many people use Anchor and ensure the app is working properly, we automatically collect minimal, anonymous data once per day:
+- **Random identifier**: A randomly generated ID that is not linked to you, your device, or any personal information
+- **App status**: Whether Anchor is your default launcher and whether app blocking is enabled
+- **App version**: Which version of Anchor you are using
+
+This data is completely anonymous and cannot be used to identify you. It helps us count active users and monitor app health. This collection happens regardless of other privacy settings because it contains no personal information.
 
 ## Accessibility Service Usage
 
