@@ -1,115 +1,246 @@
-# Privacy Policy
+# Anchor Privacy Policy
 
-**Last updated: January 8, 2026**
+**Last Updated:** January 20, 2025 (Version 1.4)
 
-*Version 1.3 - Added anonymous usage statistics disclosure*
+Your privacy matters. This policy explains what data Anchor collects, why we collect it, and how you can control it.
 
-Anchor ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use the Anchor app.
+---
+
+## Summary
+
+- We collect only what's needed to make Anchor work
+- Your accountability partner can see your app usage (if you connect one)
+- We don't sell your data or show you ads
+- You can delete all your data at any time
+- You can disconnect from your partner at any time
+
+---
 
 ## Information We Collect
 
 ### Account Information
-- **Display name**: The name you choose to identify yourself to your accountability partner
-- **Partner pairing code**: A unique code used to connect with your accountability partner
+When you set up Anchor, we collect:
+- **Display name**: So your partner knows who you are
+- **Pairing code**: A unique 8-character code to connect with your partner
 
-### Usage Data
-With your permission (PACKAGE_USAGE_STATS), we collect:
-- **App usage statistics**: Which apps you use and for how long
-- **Blocked app attempts**: When you try to open a blocked app
+### App Usage Data (With Your Permission)
+If you grant usage stats permission, we collect:
+- Which apps you use and for how long
+- When you attempt to open blocked apps
+- Your self-imposed app time limits
 
-This data is used to:
-- Show you your own usage patterns
-- Share usage summaries with your accountability partner (if connected)
-- Enforce app time limits you set for yourself
+This data helps you and your partner track progress toward your digital wellness goals.
 
 ### Device Information
-- **Device tokens**: For sending push notifications
+We collect basic device information to make Anchor work:
+- **FCM token**: To send you push notifications
 - **Accessibility service status**: Whether app blocking is enabled
-- **Default launcher status**: Whether Anchor is set as your home screen
+- **Launcher status**: Whether Anchor is your home screen
 
-### Anonymous Usage Statistics
-To understand how many people use Anchor and ensure the app is working properly, we automatically collect minimal, anonymous data once per day:
-- **Random identifier**: A randomly generated ID that is not linked to you, your device, or any personal information
-- **App status**: Whether Anchor is your default launcher and whether app blocking is enabled
-- **App version**: Which version of Anchor you are using
+### Diagnostic Data
+When you submit a bug report through the app, we collect:
+- Your description of the issue
+- Device model and Android version
+- App version and mode (solo/partner)
+- Recent app events (last 100 events, for debugging)
+- A random 8-character reference ID
 
-This data is completely anonymous and cannot be used to identify you. It helps us count active users and monitor app health. This collection happens regardless of other privacy settings because it contains no personal information.
+This diagnostic data is used solely to identify and fix issues. It is not shared with your accountability partner or any third parties.
 
-## Accessibility Service Usage
+### Anonymous Statistics
+We automatically collect minimal anonymous data daily to understand how many people use Anchor:
+- A random identifier (not linked to your account)
+- App mode (solo or partner)
+- Whether blocking is enabled
+- App version
+- Date
 
-Anchor requires Android's Accessibility Service to provide its core app-blocking functionality. This section explains exactly how we use this permission.
+This data is completely anonymous and cannot be used to identify you.
 
-### What the Accessibility Service DOES:
-- Detects when you open an app (receives "window state changed" events)
-- Checks if the app is on your blocked list or has exceeded its time limit
-- Redirects you to your home screen if the app is blocked
-
-### What the Accessibility Service does NOT do:
-- Read any text on your screen
-- Access passwords, messages, or personal content
-- Record or transmit screen contents
-- Collect any data beyond app package names
-- Function when Anchor is uninstalled
-
-**Technical details**: Anchor only listens for `TYPE_WINDOW_STATE_CHANGED` events and has `canRetrieveWindowContent` set to `false`, meaning it cannot read screen content even if it wanted to.
-
-This permission is essential for the app to work—without it, Anchor cannot block apps or enforce time limits.
+---
 
 ## How We Use Your Information
 
-- Provide core app functionality (blocking apps, tracking usage)
-- Enable accountability partner features
-- Send notifications about partner requests and alerts
+We use your data to:
+- **Provide the service**: Connect you with your partner, sync your settings, send notifications
+- **Enable accountability**: Share relevant data with your partner (see below)
+- **Improve Anchor**: Fix bugs and understand usage patterns (anonymously)
+- **Communicate**: Send push notifications about partner requests and alerts
 
-## Data Sharing
-
-### With Your Accountability Partner
-If you connect with a partner, they can see:
-- Your display name
-- Your app usage (last 7 days)
-- Your blocked app attempts
-- Whether accessibility service is enabled
-- Whether Anchor is your default launcher
-
-### Third-Party Services
-We use Firebase (Google) for:
-- **Cloud Firestore**: Storing your data securely
-- **Firebase Cloud Messaging**: Sending push notifications
-
-**We do NOT:**
-- Sell your data to third parties
+We do NOT:
+- Sell your data to anyone
 - Share your data with advertisers
 - Use your data for targeted advertising
+- Read the content on your screen
 
-## Data Storage and Security
+---
 
-Your data is stored securely on Firebase servers (Google Cloud Platform). We implement appropriate security measures to protect against unauthorized access.
+## Accountability Partner Data Sharing
+
+### What You Share With Your Partner
+
+By entering a partner's pairing code and completing the connection, you explicitly consent to share the following with your partner in real-time:
+
+| Data | Why It's Shared |
+|------|-----------------|
+| Your display name | So they know who you are |
+| App usage data (past 7 days) | To support accountability |
+| Blocked app attempts | To see what you're struggling with |
+| Your app time limits | To see your goals |
+| Accessibility service status | To verify blocking is active |
+| Launcher status | To verify Anchor is your home screen |
+
+**Your partner sees this data continuously while connected.**
+
+### What Your Partner CANNOT See
+- The content of your messages or apps
+- Your location
+- Your contacts
+- Your photos
+- Anything you type
+
+### Disconnecting
+You may disconnect from your partner at any time through Settings. Disconnecting:
+- Immediately stops all data sharing
+- Removes your partner's access to your usage data
+- Does not require your partner's permission
+- Allows both of you to continue using Anchor independently
+
+---
+
+## The Accessibility Service
+
+### What It Does
+Anchor's accessibility service detects when you open an app and checks if that app is allowed. If not, it redirects you back to your home screen.
+
+### What It Does NOT Do
+- Read any text on your screen
+- Access your messages, emails, or personal content
+- Record what you type
+- Take screenshots
+- Access your passwords or private information
+
+### Technical Details
+The accessibility service only receives these events:
+- `TYPE_WINDOW_STATE_CHANGED`: Detects which app opened
+- Package name: The technical identifier of the app (e.g., "com.instagram.android")
+
+We set `canRetrieveWindowContent` to `false`, which means we technically cannot access screen content even if we wanted to.
+
+---
 
 ## Data Retention
 
-- **Active accounts**: Data is retained while you use the app
-- **Deleted accounts**: Data is deleted upon request
-- **Usage data display**: The app shows usage from the last 7 days to you and your partner
+We keep your data only as long as needed:
+
+| Data Type | Retention Period |
+|-----------|-----------------|
+| Account info (name, pairing code) | Until you delete your account |
+| App usage data | 30 days rolling |
+| Blocked attempt logs | 30 days rolling |
+| Partner connection | Until you disconnect |
+| App time limits | Until you remove them |
+| Bug reports | 90 days |
+| Feature requests | Until implemented or declined |
+| Anonymous statistics | 1 year |
+
+When you delete your account, all personally identifiable data is removed within 30 days.
+
+---
+
+## Data Storage and Security
+
+### Where Your Data Is Stored
+Your data is stored on Firebase (Google Cloud) servers in the United States. Firebase provides:
+- Encryption in transit (HTTPS/TLS)
+- Encryption at rest
+- SOC 1, SOC 2, and SOC 3 compliance
+- ISO 27001 certification
+
+### International Data Transfers
+For users in the European Economic Area (EEA), United Kingdom, or Switzerland: your data is transferred to the United States. This transfer is protected by:
+- Google's Standard Contractual Clauses
+- Firebase's compliance with applicable data protection frameworks
+
+---
+
+## Legal Basis for Processing (EEA Users)
+
+If you're in the European Economic Area, we process your data based on:
+
+- **Contract performance**: To provide the Anchor service you requested when you created an account
+- **Consent**: For optional analytics (which you can decline during setup or withdraw anytime in Settings)
+- **Legitimate interest**: For service security, fraud prevention, and improving Anchor
+
+---
 
 ## Your Rights
 
-- **Access**: View all data we have about you (visible in the app)
-- **Delete**: Request deletion of your account and all associated data
-- **Disconnect**: Remove your accountability partner connection at any time
+You have the right to:
 
-To delete your data:
-1. Uninstall the app (local data is removed)
-2. Contact us to request server data deletion
+- **Access**: See what data we have about you
+- **Deletion**: Delete your account and all associated data (Settings > Advanced > Delete My Data)
+- **Portability**: Request your data in a machine-readable format
+- **Correction**: Update your display name anytime
+- **Withdraw consent**: Turn off analytics in Settings > Advanced
+- **Disconnect**: Leave your accountability partnership instantly
+- **Restriction**: Request we limit how we process your data
+- **Object**: Object to processing based on legitimate interest
 
-## Age Requirement
+To exercise these rights, use the in-app options or contact us at the address below.
 
-Anchor is intended for users 18 years of age or older. We do not knowingly collect information from anyone under 18. If you are under 18, please do not use this app.
+---
+
+## Children's Privacy
+
+Anchor is intended for users 18 years of age or older. We do not knowingly collect data from anyone under 18.
+
+If you are a parent or guardian and believe your child has provided us with personal information, please contact us. If we discover we have collected data from someone under 18, we will delete it promptly.
+
+**Note for parents**: Anchor is not a parental control app. If you want to monitor or limit a minor's phone use, please use dedicated parental control solutions like Google Family Link.
+
+---
+
+## Third-Party Services
+
+Anchor uses these third-party services:
+
+| Service | Purpose | Privacy Policy |
+|---------|---------|----------------|
+| Firebase (Google) | Data storage, authentication, push notifications | [Google Privacy Policy](https://policies.google.com/privacy) |
+| Firebase Crashlytics | Crash reporting | [Crashlytics Data Processing](https://firebase.google.com/support/privacy) |
+| Firebase Analytics | Anonymous usage analytics (optional) | [Google Analytics Privacy](https://support.google.com/analytics/answer/6004245) |
+
+We do not use any advertising SDKs or sell data to third parties.
+
+---
 
 ## Changes to This Policy
 
-We may update this Privacy Policy from time to time. We will notify you of changes by updating the "Last updated" date.
+We may update this Privacy Policy from time to time. When we make significant changes:
+- We'll update the "Last Updated" date at the top
+- For major changes, we'll notify you in the app
+
+Continued use of Anchor after changes constitutes acceptance of the updated policy.
+
+---
 
 ## Contact Us
 
-If you have questions about this Privacy Policy, please contact us at:
+Questions about this Privacy Policy?
+
 - **GitHub**: [github.com/hrweaver/anchor-legal](https://github.com/hrweaver/anchor-legal)
+- **Email**: Create an issue on our GitHub repository
+
+---
+
+## Summary of Recent Changes
+
+**Version 1.4 (January 20, 2025)**
+- Added explicit partner consent disclosure
+- Added data retention periods
+- Added GDPR legal basis section
+- Added international data transfer disclosure
+- Added bug report data collection disclosure
+- Added children's privacy section
+- Clarified accessibility service limitations
