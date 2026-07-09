@@ -1,6 +1,6 @@
 # Anchor Privacy Policy
 
-**Last Updated:** January 20, 2025 (Version 1.4)
+**Last Updated:** July 9, 2026 (Version 1.5)
 
 Your privacy matters. This policy explains what data Anchor collects, why we collect it, and how you can control it.
 
@@ -22,6 +22,12 @@ Your privacy matters. This policy explains what data Anchor collects, why we col
 When you set up Anchor, we collect:
 - **Display name**: So your partner knows who you are
 - **Pairing code**: A unique 8-character code to connect with your partner
+- **Email address and password** (accountability partner mode only): If you connect
+  with a partner, you create an account using an email address and password. This
+  keeps your partnership securely tied to you and working across devices. Solo use
+  does not require an account. Authentication is handled by Google Firebase; we
+  never store your password in readable form. You can delete your account and all
+  associated data at any time (see [Your Rights](#your-rights)).
 
 ### App Usage Data (With Your Permission)
 If you grant usage stats permission, we collect:
@@ -135,7 +141,7 @@ We keep your data only as long as needed:
 
 | Data Type | Retention Period |
 |-----------|-----------------|
-| Account info (name, pairing code) | Until you delete your account |
+| Account info (email, name, pairing code) | Until you delete your account |
 | App usage data | 30 days rolling |
 | Blocked attempt logs | 30 days rolling |
 | Partner connection | Until you disconnect |
@@ -179,7 +185,7 @@ If you're in the European Economic Area, we process your data based on:
 You have the right to:
 
 - **Access**: See what data we have about you
-- **Deletion**: Delete your account and all associated data (Settings > Advanced > Delete My Data)
+- **Deletion**: Delete your account and all associated data (Settings > Advanced > Delete My Account). See the [account deletion instructions](https://github.com/hrweaver/anchor-legal/blob/main/ACCOUNT_DELETION.md).
 - **Portability**: Request your data in a machine-readable format
 - **Correction**: Update your display name anytime
 - **Withdraw consent**: Turn off analytics in Settings > Advanced
