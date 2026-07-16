@@ -1,6 +1,6 @@
 # Anchor Privacy Policy
 
-**Last Updated:** July 9, 2026 (Version 1.5)
+**Last Updated:** July 16, 2026 (Version 1.6)
 
 Your privacy matters. This policy explains what data Anchor collects, why we collect it, and how you can control it.
 
@@ -63,6 +63,14 @@ We automatically collect minimal anonymous data daily to understand how many peo
 
 This data is completely anonymous and cannot be used to identify you.
 
+### Product & Usage Analytics
+To understand how Anchor is used and to improve it, we record certain **events** linked to your
+account identifier — for example: daily active use, onboarding progress, when you block or request
+access to an app, and partner requests and approvals. These are **behavioral events, not the
+content of your apps, messages, or screen**. We keep them to analyze trends over time. **When you
+delete your account, we irreversibly anonymize these events** — we strip your identifiers so they
+can no longer be tied to you — while retaining only aggregate, non-identifying data.
+
 ---
 
 ## How We Use Your Information
@@ -70,7 +78,7 @@ This data is completely anonymous and cannot be used to identify you.
 We use your data to:
 - **Provide the service**: Connect you with your partner, sync your settings, send notifications
 - **Enable accountability**: Share relevant data with your partner (see below)
-- **Improve Anchor**: Fix bugs and understand usage patterns (anonymously)
+- **Improve Anchor**: Fix bugs and analyze how Anchor is used to improve it (see *Product & Usage Analytics* above)
 - **Communicate**: Send push notifications about partner requests and alerts
 
 We do NOT:
@@ -142,8 +150,9 @@ We keep your data only as long as needed:
 | Data Type | Retention Period |
 |-----------|-----------------|
 | Account info (email, name, pairing code) | Until you delete your account |
-| App usage data | 30 days rolling |
-| Blocked attempt logs | 30 days rolling |
+| App usage data (partner-visible) | 30 days rolling |
+| Blocked attempt logs (partner-visible) | 30 days rolling |
+| Product & usage analytics events | Retained while your account exists; irreversibly anonymized when you delete your account |
 | Partner connection | Until you disconnect |
 | App time limits | Until you remove them |
 | Bug reports | 90 days |
@@ -241,6 +250,10 @@ Questions about this Privacy Policy?
 ---
 
 ## Summary of Recent Changes
+
+**Version 1.6 (July 16, 2026)**
+- Disclosed product & usage analytics (behavioral events linked to your account, used to improve Anchor)
+- Clarified that analytics events are retained for trend analysis and **irreversibly anonymized on account deletion**
 
 **Version 1.4 (January 20, 2025)**
 - Added explicit partner consent disclosure
