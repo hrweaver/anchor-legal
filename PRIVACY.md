@@ -1,6 +1,6 @@
 # Anchor Privacy Policy
 
-**Last Updated:** July 16, 2026 (Version 1.6)
+**Last Updated:** July 26, 2026 (Version 1.7)
 
 Your privacy matters. This policy explains what data Anchor collects, why we collect it, and how you can control it.
 
@@ -64,12 +64,16 @@ We automatically collect minimal anonymous data daily to understand how many peo
 This data is completely anonymous and cannot be used to identify you.
 
 ### Product & Usage Analytics
-To understand how Anchor is used and to improve it, we record certain **events** linked to your
-account identifier — for example: daily active use, onboarding progress, when you block or request
-access to an app, and partner requests and approvals. These are **behavioral events, not the
-content of your apps, messages, or screen**. We keep them to analyze trends over time. **When you
-delete your account, we irreversibly anonymize these events** — we strip your identifiers so they
-can no longer be tied to you — while retaining only aggregate, non-identifying data.
+To understand how Anchor is used, to improve it, and to help us reproduce and fix problems you
+report, we record certain **events** linked to your account identifier. Examples include: daily
+active use, onboarding progress, which screens you visit within the Anchor app, when you block or
+request access to an app, partner requests and approvals, when Anchor notifications arrive and
+what you do with them (open, approve, deny), settings changes such as turning blocking on or off,
+and whether a sign-in attempt succeeded or failed. These are **behavioral events about your use of Anchor itself, not the
+content of your other apps, messages, or screen**. We keep them to analyze trends over time and to
+support you when something goes wrong. **When you delete your account, we irreversibly anonymize
+these events** by stripping your identifiers so they can no longer be tied to you, while retaining
+only aggregate, non-identifying data.
 
 ---
 
@@ -140,6 +144,21 @@ The accessibility service only receives these events:
 - Package name: The technical identifier of the app (e.g., "com.instagram.android")
 
 We set `canRetrieveWindowContent` to `false`, which means we technically cannot access screen content even if we wanted to.
+
+---
+
+## On iPhone: Apple Screen Time
+
+On iOS, Anchor does not use an accessibility service. Blocking is built on Apple's Screen Time
+framework, which is designed so that apps like Anchor never learn which apps you selected.
+
+- When you choose apps to block or keep open, Apple gives Anchor **opaque tokens**, not app names.
+  Anchor cannot read, store, or transmit the names of the apps you selected.
+- The only time we know an app's name on iOS is when **you type it yourself**, for example when
+  naming an app in a request so your partner knows what they are approving.
+- Per-app usage numbers on iOS are rendered inside an Apple-sandboxed report on your device and
+  are not readable, stored, or synced by Anchor.
+- You can revoke Anchor's Screen Time access at any time in iOS Settings.
 
 ---
 
@@ -250,6 +269,14 @@ Questions about this Privacy Policy?
 ---
 
 ## Summary of Recent Changes
+
+**Version 1.7 (July 26, 2026)**
+- Expanded the Product & Usage Analytics examples to name the event types we record: screens
+  visited within Anchor, notification delivery and responses, settings changes, and sign-in
+  attempt outcomes. Same rule as before: events about your use of Anchor, never the content of
+  your other apps.
+- Added an iPhone section: iOS blocking uses Apple's Screen Time framework, which by design keeps
+  the names of your selected apps hidden from Anchor.
 
 **Version 1.6 (July 16, 2026)**
 - Disclosed product & usage analytics (behavioral events linked to your account, used to improve Anchor)
