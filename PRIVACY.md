@@ -1,6 +1,6 @@
 # Anchor Privacy Policy
 
-**Last Updated:** July 26, 2026 (Version 1.7)
+**Last Updated:** July 26, 2026 (Version 1.8)
 
 Your privacy matters. This policy explains what data Anchor collects, why we collect it, and how you can control it.
 
@@ -9,7 +9,7 @@ Your privacy matters. This policy explains what data Anchor collects, why we col
 ## Summary
 
 - We collect only what's needed to make Anchor work
-- Your accountability partner can see your app usage (if you connect one)
+- Your accountability partner sees whether your protection is set up and holding, and the requests you send them. They do not see your app usage in current versions of Anchor
 - We don't sell your data or show you ads
 - You can delete all your data at any time
 - You can disconnect from your partner at any time
@@ -102,13 +102,13 @@ By entering a partner's pairing code and completing the connection, you explicit
 | Data | Why It's Shared |
 |------|-----------------|
 | Your display name | So they know who you are |
-| App usage data (past 7 days) | To support accountability |
-| Blocked app attempts | To see what you're struggling with |
-| Your app time limits | To see your goals |
-| Accessibility service status | To verify blocking is active |
-| Launcher status | To verify Anchor is your home screen |
+| Setup status (blocking on or off, Screen Time or accessibility access, whether Anchor is your home screen, last check-in) | To verify your protection is set up and holding |
+| The requests you send them, and their outcomes | So they can approve or deny, and see recent activity between you |
+| Your app time limits and schedules | To see the commitments you set |
 
-**Your partner sees this data continuously while connected.**
+Anchor's partner view is built around accountability, not surveillance. Your partner sees the state of your setup and what you choose to ask them. They do not see which apps you use, for how long, or which blocked apps you tried to open.
+
+**Transition note:** app usage and blocked-attempt data are still collected (see App Usage Data above) and were shown to partners in versions of Anchor before July 2026. Partners on older versions may still see them until they update. A future update will stop syncing this data entirely, and this policy will be updated again when it does.
 
 ### What Your Partner CANNOT See
 - The content of your messages or apps
@@ -269,6 +269,11 @@ Questions about this Privacy Policy?
 ---
 
 ## Summary of Recent Changes
+
+**Version 1.8 (July 26, 2026)**
+- Redesigned partner sharing: partners now see your setup status, your requests, and your
+  commitments. Current versions of Anchor no longer show partners your app usage or blocked-app
+  attempts. Added a transition note covering older app versions while usage syncing is wound down.
 
 **Version 1.7 (July 26, 2026)**
 - Expanded the Product & Usage Analytics examples to name the event types we record: screens
