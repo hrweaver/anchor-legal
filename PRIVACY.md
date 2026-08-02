@@ -1,6 +1,6 @@
 # Anchor Privacy Policy
 
-**Last Updated:** July 26, 2026 (Version 1.8)
+**Last Updated:** August 2, 2026 (Version 1.9)
 
 Your privacy matters. This policy explains what data Anchor collects, why we collect it, and how you can control it.
 
@@ -74,6 +74,12 @@ content of your other apps, messages, or screen**. We keep them to analyze trend
 support you when something goes wrong. **When you delete your account, we irreversibly anonymize
 these events** by stripping your identifiers so they can no longer be tied to you, while retaining
 only aggregate, non-identifying data.
+
+**You can turn this off.** On Android, Settings > Advanced > Share Anonymous Usage Data. On
+iPhone, that switch arrives in an upcoming release; until then, email
+[support@anchorph.one](mailto:support@anchorph.one) and we will switch it off for your
+account. Turning analytics off does not change how blocking, limits, or partner approvals
+work.
 
 ---
 
@@ -203,7 +209,7 @@ For users in the European Economic Area (EEA), United Kingdom, or Switzerland: y
 If you're in the European Economic Area, we process your data based on:
 
 - **Contract performance**: To provide the Anchor service you requested when you created an account
-- **Consent**: For optional analytics (which you can decline during setup or withdraw anytime in Settings)
+- **Consent**: For optional analytics. You can decline during setup on Android, and withdraw at any time (see *Withdraw consent* under Your Rights for how, on each platform)
 - **Legitimate interest**: For service security, fraud prevention, and improving Anchor
 
 ---
@@ -216,7 +222,7 @@ You have the right to:
 - **Deletion**: Delete your account and all associated data (Settings > Advanced > Delete My Account). See the [account deletion instructions](https://github.com/hrweaver/anchor-legal/blob/main/ACCOUNT_DELETION.md).
 - **Portability**: Request your data in a machine-readable format
 - **Correction**: Update your display name anytime
-- **Withdraw consent**: Turn off analytics in Settings > Advanced
+- **Withdraw consent**: Turn off analytics in Settings > Advanced on Android. On iPhone this switch arrives in an upcoming release; until then, email [support@anchorph.one](mailto:support@anchorph.one) from your account email and we will switch analytics off for your account within a few days. Either route stops collection entirely, and blocking works exactly the same with analytics off.
 - **Disconnect**: Leave your accountability partnership instantly
 - **Restriction**: Request we limit how we process your data
 - **Object**: Object to processing based on legitimate interest
@@ -269,6 +275,13 @@ Questions about this Privacy Policy?
 ---
 
 ## Summary of Recent Changes
+
+**Version 1.9 (August 2, 2026)**
+- Made the analytics opt-out accurate per platform. The switch has always existed on Android
+  (Settings > Advanced); on iPhone it arrives in an upcoming release. Until it does, emailing
+  support turns analytics off for your account, and we honor that immediately on our servers
+  rather than waiting for an app update. Blocking, limits, and partner approvals are unaffected
+  either way.
 
 **Version 1.8 (July 26, 2026)**
 - Redesigned partner sharing: partners now see your setup status, your requests, and your
