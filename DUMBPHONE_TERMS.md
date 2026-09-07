@@ -68,7 +68,7 @@ Anchor Dumb Phone is for people 18 and older setting limits on their own phone. 
 
 ## Privacy
 
-Anchor Dumb Phone has no account and no analytics. Your choices, your wait, and your agreement to these Terms are stored on your phone and nowhere else. Nothing leaves the phone except the purchase, which Google Play handles. See the [Anchor Dumb Phone Privacy Policy](DUMBPHONE_PRIVACY.md).
+Anchor Dumb Phone has no account and no analytics. Your phone usage never leaves your phone. Two things do, both by your action: your agreement to these Terms (the moment, the Terms version, the app version and phone model) and any report or request you choose to send. The purchase is handled by Google Play. See the [Anchor Dumb Phone Privacy Policy](DUMBPHONE_PRIVACY.md).
 
 ---
 

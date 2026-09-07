@@ -2,7 +2,7 @@
 
 **Last Updated:** September 7, 2026
 
-Anchor Dumb Phone has no account, no analytics, and no server.
+Anchor Dumb Phone has no account and no analytics. **Your phone usage never leaves your phone.** Two things do, both because you chose to send them, and they are listed below.
 
 ## What the app stores, on your phone only
 
@@ -10,13 +10,17 @@ Anchor Dumb Phone has no account, no analytics, and no server.
 - The wait you chose, and any wait in progress.
 - Whether setup is complete and whether the one-time purchase is unlocked.
 - The moment you agreed to the Terms and Conditions, the Terms version, and the app version.
-- Whether you ticked the two setup boxes for the emergency alert reminder and the digital assistant.
+- Whether you ticked the setup boxes for the emergency alert reminder, the digital assistant, the plain wallpaper and grayscale.
 
 All of it lives in the app's private storage on your phone. Uninstalling the app deletes it.
 
 ## What leaves the phone
 
-Nothing, except the one-time purchase, which Google Play processes under [Google's privacy policy](https://policies.google.com/privacy). The app never contacts a server of its own.
+1. **Your agreement to the Terms and Conditions.** When you tick the box, the app sends the moment, the Terms version, the app version, the phone model and Android version, and a random install id, to a database run by Anchor. This is the record that you agreed.
+2. **Reports and requests you send.** When you use Feedback, the app sends what you typed, the app version, the phone model and Android version, the same install id, and a few counts about the app's state (how many tools, the wait you chose, whether blocking is on). Never app names, never what you opened or when.
+3. **The one-time purchase**, which Google Play processes under [Google's privacy policy](https://policies.google.com/privacy).
+
+The install id is a random identifier created by Firebase anonymous sign-in. It is not linked to your name, email, phone number, or Google account. Deleting the app's data or uninstalling it discards the id.
 
 ## Special access the app asks for
 
