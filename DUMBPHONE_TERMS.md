@@ -30,7 +30,7 @@ The tools that stay on your home screen, the wait before anything changes, and w
 
 - Phone calls, including calls to emergency numbers, work whether or not the Phone app is one of your tools.
 - Incoming calls, alarms, and government emergency alerts are never silenced by the app.
-- Android Safe Mode turns the app off on any phone. Instructions are in the app's Settings.
+- Android Safe Mode turns the app off on any phone.
 
 ---
 
