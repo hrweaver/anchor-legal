@@ -1,6 +1,6 @@
 # Anchor Dumb Phone Terms and Conditions
 
-**Last Updated:** September 7, 2026 (Version 2026-09-07)
+**Last Updated:** September 9, 2026 (Version 2026-09-09)
 
 Anchor Dumb Phone is a tool you apply to your own phone, on purpose, to limit what it does. Please read these Terms and Conditions ("Terms") before turning it on.
 
@@ -44,7 +44,7 @@ Links in text messages will not open, because the app never offers a web browser
 
 ## Purchases
 
-The download is free. The takeover (app blocking and the home screen) is a single one-time purchase made through Google Play. Google Play handles payment, refunds, and receipts under its own terms. The purchase is tied to your Google account and can be restored on another phone from the app's unlock step.
+The download is free. App blocking and the home screen are a single one-time purchase made through Google Play. Google Play handles payment, refunds, and receipts under its own terms. The purchase is tied to your Google account and can be restored on another phone from the app's unlock step.
 
 ---
 
