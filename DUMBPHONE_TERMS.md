@@ -1,6 +1,6 @@
 # Anchor Dumb Phone Terms and Conditions
 
-**Last Updated:** September 9, 2026 (Version 2026-09-09)
+**Last Updated:** September 10, 2026 (Version 2026-09-10)
 
 Anchor Dumb Phone is a tool you apply to your own phone, on purpose, to limit what it does. Please read these Terms and Conditions ("Terms") before turning it on.
 
@@ -68,7 +68,7 @@ Anchor Dumb Phone is for people 18 and older setting limits on their own phone. 
 
 ## Privacy
 
-Anchor Dumb Phone has no account and no analytics. Your phone usage never leaves your phone. Two things do, both by your action: your agreement to these Terms (the moment, the Terms version, the app version and phone model) and any report or request you choose to send. The purchase is handled by Google Play. See the [Anchor Dumb Phone Privacy Policy](DUMBPHONE_PRIVACY.md).
+Anchor Dumb Phone has no account. The app measures how its own screens are used: which setup steps you reach, the choices you make in it, and whether you unlock. That goes to Anchor with a random install id, to make the app better. Your phone usage never leaves your phone: never app names, never what you opened or when. Two more things leave by your action: your agreement to these Terms (the moment, the Terms version, the app version and phone model) and any report or request you choose to send. The purchase is handled by Google Play. See the [Anchor Dumb Phone Privacy Policy](DUMBPHONE_PRIVACY.md).
 
 ---
 

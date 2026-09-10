@@ -1,8 +1,8 @@
 # Anchor Dumb Phone Privacy Policy
 
-**Last Updated:** September 7, 2026
+**Last Updated:** September 10, 2026
 
-Anchor Dumb Phone has no account and no analytics. **Your phone usage never leaves your phone.** Two things do, both because you chose to send them, and they are listed below.
+Anchor Dumb Phone has no account. The app measures how its own screens are used, so we can see where setup loses people and which settings get chosen, and make the app better. **Your phone usage never leaves your phone**: never the names of other apps, never what you opened or when. What leaves the phone is listed below.
 
 ## What the app stores, on your phone only
 
@@ -18,9 +18,10 @@ All of it lives in the app's private storage on your phone. Uninstalling the app
 
 1. **Your agreement to the Terms and Conditions.** When you tick the box, the app sends the moment, the Terms version, the app version, the phone model and Android version, and a random install id, to a database run by Anchor. This is the record that you agreed.
 2. **Reports and requests you send.** When you use Feedback, the app sends what you typed, the app version, the phone model and Android version, the same install id, and a few counts about the app's state (how many tools, the wait you chose, whether blocking is on). Never app names, never what you opened or when.
-3. **The one-time purchase**, which Google Play processes under [Google's privacy policy](https://policies.google.com/privacy).
+3. **How the app itself is used.** The app sends Anchor, through Google's Firebase Analytics, which of its own screens you open, which setup steps you reach, the choices you make inside it (how many tools, which wait, whether you started the trial, whether you unlocked, when a wait starts and finishes), the app version, the phone model and Android version, and a random app instance id. It does not send the names of your tools or of any other app, and nothing about what you do outside Anchor Dumb Phone. The advertising id is switched off. Google processes this under [Google's privacy policy](https://policies.google.com/privacy).
+4. **The one-time purchase**, which Google Play processes under [Google's privacy policy](https://policies.google.com/privacy).
 
-The install id is a random identifier created by Firebase anonymous sign-in. It is not linked to your name, email, phone number, or Google account. Deleting the app's data or uninstalling it discards the id.
+The install id and the app instance id are random identifiers created by Firebase. They are not linked to your name, email, phone number, or Google account. Deleting the app's data or uninstalling it discards them.
 
 ## Special access the app asks for
 
