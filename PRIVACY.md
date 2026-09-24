@@ -1,6 +1,6 @@
 # Anchor Privacy Policy
 
-**Last Updated:** August 2, 2026 (Version 1.9)
+**Last Updated:** [DRAFT, not yet published] (Version 2.0)
 
 Your privacy matters. This policy explains what data Anchor collects, why we collect it, and how you can control it.
 
@@ -12,7 +12,8 @@ Your privacy matters. This policy explains what data Anchor collects, why we col
 - Your accountability partner sees whether your protection is set up and holding, and the requests you send them. They do not see your app usage in current versions of Anchor
 - We don't sell your data or show you ads
 - You can delete all your data at any time
-- You can disconnect from your partner at any time
+- Adults can disconnect from a partner or leave a family at any time
+- Teens 13 to 17 use Anchor only inside a family with their parent or guardian, and Anchor is not for children under 13 (see *Teens and Families*)
 
 ---
 
@@ -231,13 +232,29 @@ To exercise these rights, use the in-app options or contact us at the address be
 
 ---
 
-## Children's Privacy
+## Teens and Families
 
-Anchor is intended for users 18 years of age or older. We do not knowingly collect data from anyone under 18.
+### Who can use Anchor
+- **Adults (18 and older)** can use Anchor on their own, with partners, or in a family.
+- **Teens (13 to 17)** can use Anchor only as a member of a family that includes their parent or legal guardian, who agrees to our Terms for them.
+- **Anchor is not for children under 13.** We ask for age when you set up Anchor, we do not knowingly collect personal information from anyone under 13, and if we learn we have, we delete it.
 
-If you are a parent or guardian and believe your child has provided us with personal information, please contact us. If we discover we have collected data from someone under 18, we will delete it promptly.
+### What we collect about a teen
+The same things we collect about any user (see *Information We Collect*), and nothing extra. We do not collect a teen's location, contacts, photos, messages, or anything they type into other apps. We never show a teen ads, and we never sell or share a teen's information for advertising.
 
-**Note for parents**: Anchor is not a parental control app. If you want to monitor or limit a minor's phone use, please use dedicated parental control solutions like Google Family Link.
+**Analytics are off for teens.** The product and usage analytics described above are not collected for a teen account.
+
+### What a parent can see about their teen
+A parent sees the same things any accountability partner sees (see *What You Share With Your Partner*):
+- Whether the teen's protection is set up and holding
+- The requests the teen sends, including any reason they type, and how those were answered
+- The teen's app time limits and schedules
+- When family time (Drop Anchor) is running, and whether the teen used an emergency pass during it
+
+A parent does not see the content of the teen's messages or apps, their location, their contacts, or which apps they use and for how long.
+
+### Parents' rights
+A parent or guardian can ask to review their teen's information, have it deleted, or stop further collection, by emailing [support@anchorph.one](mailto:support@anchorph.one) from the parent's account email. A teen can also delete their own account at any time (Settings > Advanced > Delete My Account); their parents are told when that happens.
 
 ---
 
@@ -270,11 +287,15 @@ Continued use of Anchor after changes constitutes acceptance of the updated poli
 Questions about this Privacy Policy?
 
 - **GitHub**: [github.com/hrweaver/anchor-legal](https://github.com/hrweaver/anchor-legal)
-- **Email**: Create an issue on our GitHub repository
+- **Email**: [support@anchorph.one](mailto:support@anchorph.one)
 
 ---
 
 ## Summary of Recent Changes
+
+**Version 2.0 [DRAFT]**
+- Teens 13 to 17 can use Anchor inside a family with their parent or guardian. Anchor is not for children under 13.
+- Added *Teens and Families*: what we collect about a teen (nothing extra, no analytics, no ads), what a parent can see, and parents' rights to review or delete their teen's information.
 
 **Version 1.9 (August 2, 2026)**
 - Made the analytics opt-out accurate per platform. The switch has always existed on Android

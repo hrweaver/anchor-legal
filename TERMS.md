@@ -1,6 +1,6 @@
 # Anchor Terms of Service
 
-**Last Updated:** January 20, 2025 (Version 1.1)
+**Last Updated:** [DRAFT, not yet published] (Version 2.0)
 
 Welcome to Anchor. Please read these Terms of Service ("Terms") carefully before using the app.
 
@@ -14,9 +14,9 @@ By downloading, installing, or using Anchor, you agree to be bound by these Term
 
 ## What Anchor Is
 
-Anchor is a free digital wellness app designed to help you reduce phone addiction by:
+Anchor is a digital wellness app designed to help you reduce phone addiction by:
 - Blocking distracting apps
-- Providing accountability through optional partner connections
+- Providing accountability through partners and families
 - Tracking your app usage
 - Supporting your goals with self-imposed time limits
 
@@ -28,7 +28,7 @@ Anchor is a tool to support your digital wellness journey. It is not a medical d
 
 ### Anchor Is For Voluntary Accountability
 
-Anchor is designed for **voluntary, consensual accountability partnerships** between adults who mutually choose to support each other's digital wellness.
+Anchor is designed for **voluntary, consensual accountability** between adults who choose to support each other, and for **families**, where a parent or guardian and their teen use Anchor together, openly.
 
 ### Prohibited Uses
 
@@ -38,11 +38,14 @@ Anchor is designed for **voluntary, consensual accountability partnerships** bet
 - Facilitate domestic abuse, stalking, or controlling behavior
 - Monitor anyone who has not freely chosen to participate
 - Track a partner's location or communications
-- Monitor minor children (use dedicated parental control apps instead)
+- Install or run Anchor on a teen's phone without the teen knowing it is there, or hide from them what their parent can see
+- Add a child under 13 to Anchor
 
 ### Your Right to Leave
 
-**Either partner may disconnect at any time**, for any reason, without the other partner's permission or knowledge. This is by design. We cannot and will not prevent disconnection.
+**Any adult may disconnect from a partner or leave a family at any time**, for any reason, without the other person's permission. This is by design. We cannot and will not prevent it.
+
+A teen in a family leaves through their parent or guardian, because the family is how the parent takes part. A teen can still always uninstall Anchor, and nobody can prevent that; the family is told the app went quiet.
 
 ### If You Are Being Coerced
 
@@ -52,6 +55,7 @@ If you are being forced to use this app against your will, or if someone is usin
 - **National Domestic Violence Hotline**: 1-800-799-7233
 - **Text "START" to 88788** for help via text message
 - **TheHotline.org** for online chat support
+- **Teens**: Childhelp National Child Abuse Hotline, **1-800-422-4453** (call or text), or **988** for the Suicide & Crisis Lifeline
 
 We take abuse seriously. If we become aware that Anchor is being used for coercive control, we reserve the right to terminate the abuser's account.
 
@@ -59,11 +63,18 @@ We take abuse seriously. If we become aware that Anchor is being used for coerci
 
 ## Eligibility
 
-You must be **at least 18 years old** to use Anchor.
+**Adults (18 and older)** may use Anchor on their own, with partners, or in a family.
+
+**Teens (13 to 17)** may use Anchor only as a member of a family on Anchor that includes their parent or legal guardian. The parent or guardian:
+- Agrees to these Terms on the teen's behalf, and is responsible for the teen's use of Anchor
+- Admits the teen to the family and confirms they are the teen's parent or legal guardian
+- Can see the information described in our Privacy Policy under *Families*, and nothing more
+
+**Children under 13 may not use Anchor.** If we learn that someone under 13 has an account, we will delete it.
 
 By using Anchor, you represent that:
-- You are at least 18 years old
-- You have the legal capacity to enter into these Terms
+- You are at least 18, or you are 13 to 17 and your parent or guardian has agreed to these Terms for you
+- You have (or your parent or guardian has) the legal capacity to enter into these Terms
 - You are not prohibited from using the app under any applicable laws
 
 ---
@@ -71,7 +82,7 @@ By using Anchor, you represent that:
 ## Your Account
 
 ### Account Creation
-You create an account by setting up Anchor and choosing a display name. You don't need an email or password - your account is tied to your device.
+You can start using Anchor on your own without an account. Partners and families need an account, which you create with an email address and password. Teens need an account, because a teen always uses Anchor inside a family.
 
 ### Your Responsibilities
 You agree to:
@@ -86,10 +97,9 @@ You agree to:
 ## Accountability Partnerships
 
 ### How It Works
-You can optionally connect with one accountability partner. When connected:
-- You share app usage data with each other
-- Either person can request temporary access to blocked apps
-- Either person can suggest the other remove an app
+You can connect with one or more accountability partners. When connected:
+- Your partner sees whether your protection is set up and holding, and the requests you send them (see the Privacy Policy for exactly what is shared)
+- You ask your partner when you want temporary access to a blocked app, and they answer
 - Both people receive notifications about important events
 
 ### Mutual Consent
@@ -100,7 +110,7 @@ By entering a partner's code and completing the connection, you confirm that:
 - No one is forcing or coercing you into this partnership
 
 ### Disconnecting
-Either partner may disconnect at any time by going to Settings and removing the partnership. Disconnecting:
+Either adult partner may disconnect at any time by going to Settings and removing the partnership. Disconnecting:
 - Takes effect immediately
 - Stops all data sharing
 - Does not require the other partner's approval
@@ -110,18 +120,29 @@ We do not notify the other partner of the reason for disconnection.
 
 ---
 
+## Families
+
+A family on Anchor is a household: one or two adults, and optionally their teens.
+
+- **Adults** in a family are partners to each other and approvers for the teens. Either adult can answer a teen's request.
+- **Teens** ask a parent when they want temporary access to a blocked app. A teen cannot loosen their own setup or leave the family on their own; they can always make their setup stricter.
+- **Family time (Drop Anchor)** pauses apps on every phone in the family for a set time. Calls, emergency services and Anchor itself always stay available.
+- **An adult who admits a teen** confirms they are that teen's parent or legal guardian, and that the teen knows Anchor is on their phone and what the family can see.
+- **When the last adult leaves** a family, the family ends and any teens in it are released from it.
+
+---
+
 ## Safety Features
 
 Certain features cannot be disabled to ensure your safety:
 
 ### Always Accessible
-The following are always accessible, even when blocking is enabled:
+The following are always accessible, even when blocking or family time is on:
 - **Emergency services** (911, emergency dialer)
-- **Phone and calling apps**
+- **Your phone app** and incoming calls
 - **System settings**
-- **Play Store** (for updates)
 - **Anchor itself**
-- **Your keyboard apps**
+- On Android, also the **Play Store** (for updates) and **your keyboard apps**
 
 ### Boot Grace Period
 If enabled, blocking is paused for 60 seconds after your phone restarts. This ensures you can always access Settings if something goes wrong.
@@ -199,7 +220,7 @@ Do not rely on usage statistics for any purpose requiring precision.
 
 ### Liability Cap
 
-**OUR TOTAL LIABILITY TO YOU FOR ANY CLAIM ARISING FROM THESE TERMS OR YOUR USE OF ANCHOR SHALL NOT EXCEED THE AMOUNT YOU PAID US FOR THE APP, WHICH IS $0 (ZERO DOLLARS) FOR THE FREE VERSION.**
+**OUR TOTAL LIABILITY TO YOU FOR ANY CLAIM ARISING FROM THESE TERMS OR YOUR USE OF ANCHOR SHALL NOT EXCEED THE AMOUNT YOU PAID US FOR ANCHOR IN THE 12 MONTHS BEFORE THE CLAIM.**
 
 Some jurisdictions do not allow limitation of liability for certain damages. In such jurisdictions, our liability is limited to the maximum extent permitted by law.
 
@@ -321,12 +342,19 @@ Section headings are for convenience only and do not affect the interpretation o
 
 Questions about these Terms?
 
+- **Email**: [support@anchorph.one](mailto:support@anchorph.one)
 - **GitHub**: [github.com/hrweaver/anchor-legal](https://github.com/hrweaver/anchor-legal)
-- **Support**: [ko-fi.com/anchorapp](https://ko-fi.com/anchorapp)
 
 ---
 
 ## Summary of Recent Changes
+
+**Version 2.0 [DRAFT]**
+- Teens 13 to 17 may use Anchor inside a family that includes their parent or guardian, who agrees to these Terms for them. Children under 13 may not use Anchor.
+- Added a Families section: roles, family time, what admitting a teen confirms, and what happens when the last adult leaves.
+- Prohibited using Anchor on a teen's phone without the teen knowing, and added teen crisis resources.
+- Brought the account and partnership sections up to date: email accounts for partners and families, more than one partner, and what a partner actually sees.
+- Always-accessible list now covers iPhone.
 
 **Version 1.1 (January 20, 2025)**
 - Added comprehensive abuse prevention section with resources
