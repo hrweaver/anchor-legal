@@ -30,13 +30,14 @@ When you set up Anchor, we collect:
   never store your password in readable form. You can delete your account and all
   associated data at any time (see [Your Rights](#your-rights)).
 
-### App Usage Data (With Your Permission)
-If you grant usage stats permission, we collect:
-- Which apps you use and for how long
-- When you attempt to open blocked apps
-- Your self-imposed app time limits
-
-This data helps you and your partner track progress toward your digital wellness goals.
+### App Usage Data (Stays on Your Phone)
+If you grant usage stats permission on Android, Anchor reads which apps you use and for how long
+to show you *My Usage* and to enforce the time limits you set. **This stays on your phone.**
+Current versions of Anchor do not upload which apps you use, for how long, or which blocked apps
+you tried to open, and partners cannot read that data from our servers. (Earlier versions did
+upload it; see *Data Retention* for how that data is being removed.) What we do keep on the
+server is what you choose to share: your self-imposed time limits and schedules, and the
+requests you send.
 
 ### Device Information
 We collect basic device information to make Anchor work:
@@ -115,7 +116,7 @@ By entering a partner's pairing code and completing the connection, you explicit
 
 Anchor's partner view is built around accountability, not surveillance. Your partner sees the state of your setup and what you choose to ask them. They do not see which apps you use, for how long, or which blocked apps you tried to open.
 
-**Transition note:** app usage and blocked-attempt data are still collected (see App Usage Data above) and were shown to partners in versions of Anchor before July 2026. Partners on older versions may still see them until they update. A future update will stop syncing this data entirely, and this policy will be updated again when it does.
+**Transition note:** versions of Anchor before July 2026 showed partners your app usage, and versions before [release, autumn 2026] still uploaded it. As of that release, usage is no longer uploaded, our servers no longer let a partner read what older versions uploaded, and the previously uploaded usage data has been deleted.
 
 ### What Your Partner CANNOT See
 - The content of your messages or apps
@@ -176,8 +177,8 @@ We keep your data only as long as needed:
 | Data Type | Retention Period |
 |-----------|-----------------|
 | Account info (email, name, pairing code) | Until you delete your account |
-| App usage data (partner-visible) | 30 days rolling |
-| Blocked attempt logs (partner-visible) | 30 days rolling |
+| App usage data | Not uploaded by current versions; data uploaded by earlier versions deleted [date] |
+| Blocked attempt logs | Not uploaded by current versions; data uploaded by earlier versions deleted [date] |
 | Product & usage analytics events | Retained while your account exists; irreversibly anonymized when you delete your account |
 | Partner connection | Until you disconnect |
 | App time limits | Until you remove them |
@@ -296,6 +297,7 @@ Questions about this Privacy Policy?
 **Version 2.0 [DRAFT]**
 - Teens 13 to 17 can use Anchor inside a family with their parent or guardian. Anchor is not for children under 13.
 - Added *Teens and Families*: what we collect about a teen (nothing extra, no analytics, no ads), what a parent can see, and parents' rights to review or delete their teen's information.
+- App usage now stays on your phone: current versions no longer upload which apps you use or which blocked apps you tried to open, partners can no longer read that data, and the data uploaded by earlier versions has been deleted.
 
 **Version 1.9 (August 2, 2026)**
 - Made the analytics opt-out accurate per platform. The switch has always existed on Android
