@@ -1,6 +1,6 @@
 # Anchor Privacy Policy
 
-**Last Updated:** [DRAFT, not yet published] (Version 2.0)
+**Last Updated:** September 25, 2026 (Version 2.0)
 
 Your privacy matters. This policy explains what data Anchor collects, why we collect it, and how you can control it.
 
@@ -177,8 +177,8 @@ We keep your data only as long as needed:
 | Data Type | Retention Period |
 |-----------|-----------------|
 | Account info (email, name, pairing code) | Until you delete your account |
-| App usage data | Not uploaded by current versions; data uploaded by earlier versions deleted [date] |
-| Blocked attempt logs | Not uploaded by current versions; data uploaded by earlier versions deleted [date] |
+| App usage data | Not uploaded by current versions; data uploaded by earlier versions scheduled for deletion in October 2026 |
+| Blocked attempt logs | Not uploaded by current versions; data uploaded by earlier versions scheduled for deletion in October 2026 |
 | Product & usage analytics events | Retained while your account exists; irreversibly anonymized when you delete your account |
 | Partner connection | Until you disconnect |
 | App time limits | Until you remove them |
@@ -294,10 +294,10 @@ Questions about this Privacy Policy?
 
 ## Summary of Recent Changes
 
-**Version 2.0 [DRAFT]**
+**Version 2.0 (September 25, 2026)**
 - Teens 13 to 17 can use Anchor inside a family with their parent or guardian. Anchor is not for children under 13.
 - Added *Teens and Families*: what we collect about a teen (nothing extra, no analytics, no ads), what a parent can see, and parents' rights to review or delete their teen's information.
-- App usage now stays on your phone: current versions no longer upload which apps you use or which blocked apps you tried to open, partners can no longer read that data, and the data uploaded by earlier versions has been deleted.
+- App usage now stays on your phone: current versions no longer upload which apps you use or which blocked apps you tried to open, partners can no longer read that data, and the data uploaded by earlier versions is scheduled for deletion in October 2026.
 
 **Version 1.9 (August 2, 2026)**
 - Made the analytics opt-out accurate per platform. The switch has always existed on Android

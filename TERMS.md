@@ -1,6 +1,6 @@
 # Anchor Terms of Service
 
-**Last Updated:** [DRAFT, not yet published] (Version 2.0)
+**Last Updated:** September 25, 2026 (Version 2.0)
 
 Welcome to Anchor. Please read these Terms of Service ("Terms") carefully before using the app.
 
@@ -349,7 +349,7 @@ Questions about these Terms?
 
 ## Summary of Recent Changes
 
-**Version 2.0 [DRAFT]**
+**Version 2.0 (September 25, 2026)**
 - Teens 13 to 17 may use Anchor inside a family that includes their parent or guardian, who agrees to these Terms for them. Children under 13 may not use Anchor.
 - Added a Families section: roles, family time, what admitting a teen confirms, and what happens when the last adult leaves.
 - Prohibited using Anchor on a teen's phone without the teen knowing, and added teen crisis resources.
