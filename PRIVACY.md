@@ -1,26 +1,28 @@
-# Anchor Privacy Policy
+# Threestrand Privacy Policy
 
-**Last Updated:** September 25, 2026 (Version 2.0)
+**Last Updated:** October 8, 2026 (Version 2.1)
 
-Your privacy matters. This policy explains what data Anchor collects, why we collect it, and how you can control it.
+Threestrand was previously named Anchor. This document applies to the app under either name.
+
+Your privacy matters. This policy explains what data Threestrand collects, why we collect it, and how you can control it.
 
 ---
 
 ## Summary
 
-- We collect only what's needed to make Anchor work
-- Your accountability partner sees whether your protection is set up and holding, and the requests you send them. They do not see your app usage in current versions of Anchor
+- We collect only what's needed to make Threestrand work
+- Your accountability partner sees whether your protection is set up and holding, and the requests you send them. They do not see your app usage in current versions of Threestrand
 - We don't sell your data or show you ads
 - You can delete all your data at any time
 - Adults can disconnect from a partner or leave a family at any time
-- Teens 13 to 17 use Anchor only inside a family with their parent or guardian, and Anchor is not for children under 13 (see *Teens and Families*)
+- Teens 13 to 17 use Threestrand only inside a family with their parent or guardian, and Threestrand is not for children under 13 (see *Teens and Families*)
 
 ---
 
 ## Information We Collect
 
 ### Account Information
-When you set up Anchor, we collect:
+When you set up Threestrand, we collect:
 - **Display name**: So your partner knows who you are
 - **Pairing code**: A unique 8-character code to connect with your partner
 - **Email address and password** (accountability partner mode only): If you connect
@@ -31,19 +33,19 @@ When you set up Anchor, we collect:
   associated data at any time (see [Your Rights](#your-rights)).
 
 ### App Usage Data (Stays on Your Phone)
-If you grant usage stats permission on Android, Anchor reads which apps you use and for how long
+If you grant usage stats permission on Android, Threestrand reads which apps you use and for how long
 to show you *My Usage* and to enforce the time limits you set. **This stays on your phone.**
-Current versions of Anchor do not upload which apps you use, for how long, or which blocked apps
+Current versions of Threestrand do not upload which apps you use, for how long, or which blocked apps
 you tried to open, and partners cannot read that data from our servers. (Earlier versions did
 upload it; see *Data Retention* for how that data is being removed.) What we do keep on the
 server is what you choose to share: your self-imposed time limits and schedules, and the
 requests you send.
 
 ### Device Information
-We collect basic device information to make Anchor work:
+We collect basic device information to make Threestrand work:
 - **FCM token**: To send you push notifications
 - **Accessibility service status**: Whether app blocking is enabled
-- **Launcher status**: Whether Anchor is your home screen
+- **Launcher status**: Whether Threestrand is your home screen
 
 ### Diagnostic Data
 When you submit a bug report through the app, we collect:
@@ -56,7 +58,7 @@ When you submit a bug report through the app, we collect:
 This diagnostic data is used solely to identify and fix issues. It is not shared with your accountability partner or any third parties.
 
 ### Anonymous Statistics
-We automatically collect minimal anonymous data daily to understand how many people use Anchor:
+We automatically collect minimal anonymous data daily to understand how many people use Threestrand:
 - A random identifier (not linked to your account)
 - App mode (solo or partner)
 - Whether blocking is enabled
@@ -66,12 +68,12 @@ We automatically collect minimal anonymous data daily to understand how many peo
 This data is completely anonymous and cannot be used to identify you.
 
 ### Product & Usage Analytics
-To understand how Anchor is used, to improve it, and to help us reproduce and fix problems you
+To understand how Threestrand is used, to improve it, and to help us reproduce and fix problems you
 report, we record certain **events** linked to your account identifier. Examples include: daily
-active use, onboarding progress, which screens you visit within the Anchor app, when you block or
-request access to an app, partner requests and approvals, when Anchor notifications arrive and
+active use, onboarding progress, which screens you visit within the Threestrand app, when you block or
+request access to an app, partner requests and approvals, when Threestrand notifications arrive and
 what you do with them (open, approve, deny), settings changes such as turning blocking on or off,
-and whether a sign-in attempt succeeded or failed. These are **behavioral events about your use of Anchor itself, not the
+and whether a sign-in attempt succeeded or failed. These are **behavioral events about your use of Threestrand itself, not the
 content of your other apps, messages, or screen**. We keep them to analyze trends over time and to
 support you when something goes wrong. **When you delete your account, we irreversibly anonymize
 these events** by stripping your identifiers so they can no longer be tied to you, while retaining
@@ -90,7 +92,7 @@ work.
 We use your data to:
 - **Provide the service**: Connect you with your partner, sync your settings, send notifications
 - **Enable accountability**: Share relevant data with your partner (see below)
-- **Improve Anchor**: Fix bugs and analyze how Anchor is used to improve it (see *Product & Usage Analytics* above)
+- **Improve Threestrand**: Fix bugs and analyze how Threestrand is used to improve it (see *Product & Usage Analytics* above)
 - **Communicate**: Send push notifications about partner requests and alerts
 
 We do NOT:
@@ -110,13 +112,13 @@ By entering a partner's pairing code and completing the connection, you explicit
 | Data | Why It's Shared |
 |------|-----------------|
 | Your display name | So they know who you are |
-| Setup status (blocking on or off, Screen Time or accessibility access, whether Anchor is your home screen, last check-in) | To verify your protection is set up and holding |
+| Setup status (blocking on or off, Screen Time or accessibility access, whether Threestrand is your home screen, last check-in) | To verify your protection is set up and holding |
 | The requests you send them, and their outcomes | So they can approve or deny, and see recent activity between you |
 | Your app time limits and schedules | To see the commitments you set |
 
-Anchor's partner view is built around accountability, not surveillance. Your partner sees the state of your setup and what you choose to ask them. They do not see which apps you use, for how long, or which blocked apps you tried to open.
+Threestrand's partner view is built around accountability, not surveillance. Your partner sees the state of your setup and what you choose to ask them. They do not see which apps you use, for how long, or which blocked apps you tried to open.
 
-**Transition note:** versions of Anchor before July 2026 showed partners your app usage, and versions before [release, autumn 2026] still uploaded it. As of that release, usage is no longer uploaded, our servers no longer let a partner read what older versions uploaded, and the previously uploaded usage data has been deleted.
+**Transition note:** versions of Threestrand before July 2026 showed partners your app usage, and versions before [release, autumn 2026] still uploaded it. As of that release, usage is no longer uploaded, our servers no longer let a partner read what older versions uploaded, and the previously uploaded usage data has been deleted.
 
 ### What Your Partner CANNOT See
 - The content of your messages or apps
@@ -130,14 +132,14 @@ You may disconnect from your partner at any time through Settings. Disconnecting
 - Immediately stops all data sharing
 - Removes your partner's access to your usage data
 - Does not require your partner's permission
-- Allows both of you to continue using Anchor independently
+- Allows both of you to continue using Threestrand independently
 
 ---
 
 ## The Accessibility Service
 
 ### What It Does
-Anchor's accessibility service detects when you open an app and checks if that app is allowed. If not, it redirects you back to your home screen.
+Threestrand's accessibility service detects when you open an app and checks if that app is allowed. If not, it redirects you back to your home screen.
 
 ### What It Does NOT Do
 - Read any text on your screen
@@ -157,16 +159,16 @@ We set `canRetrieveWindowContent` to `false`, which means we technically cannot 
 
 ## On iPhone: Apple Screen Time
 
-On iOS, Anchor does not use an accessibility service. Blocking is built on Apple's Screen Time
-framework, which is designed so that apps like Anchor never learn which apps you selected.
+On iOS, Threestrand does not use an accessibility service. Blocking is built on Apple's Screen Time
+framework, which is designed so that apps like Threestrand never learn which apps you selected.
 
-- When you choose apps to block or keep open, Apple gives Anchor **opaque tokens**, not app names.
-  Anchor cannot read, store, or transmit the names of the apps you selected.
+- When you choose apps to block or keep open, Apple gives Threestrand **opaque tokens**, not app names.
+  Threestrand cannot read, store, or transmit the names of the apps you selected.
 - The only time we know an app's name on iOS is when **you type it yourself**, for example when
   naming an app in a request so your partner knows what they are approving.
 - Per-app usage numbers on iOS are rendered inside an Apple-sandboxed report on your device and
-  are not readable, stored, or synced by Anchor.
-- You can revoke Anchor's Screen Time access at any time in iOS Settings.
+  are not readable, stored, or synced by Threestrand.
+- You can revoke Threestrand's Screen Time access at any time in iOS Settings.
 
 ---
 
@@ -210,9 +212,9 @@ For users in the European Economic Area (EEA), United Kingdom, or Switzerland: y
 
 If you're in the European Economic Area, we process your data based on:
 
-- **Contract performance**: To provide the Anchor service you requested when you created an account
+- **Contract performance**: To provide the Threestrand service you requested when you created an account
 - **Consent**: For optional analytics. You can decline during setup on Android, and withdraw at any time (see *Withdraw consent* under Your Rights for how, on each platform)
-- **Legitimate interest**: For service security, fraud prevention, and improving Anchor
+- **Legitimate interest**: For service security, fraud prevention, and improving Threestrand
 
 ---
 
@@ -235,10 +237,10 @@ To exercise these rights, use the in-app options or contact us at the address be
 
 ## Teens and Families
 
-### Who can use Anchor
-- **Adults (18 and older)** can use Anchor on their own, with partners, or in a family.
-- **Teens (13 to 17)** can use Anchor only as a member of a family that includes their parent or legal guardian, who agrees to our Terms for them.
-- **Anchor is not for children under 13.** We ask for age when you set up Anchor, we do not knowingly collect personal information from anyone under 13, and if we learn we have, we delete it.
+### Who can use Threestrand
+- **Adults (18 and older)** can use Threestrand on their own, with partners, or in a family.
+- **Teens (13 to 17)** can use Threestrand only as a member of a family that includes their parent or legal guardian, who agrees to our Terms for them.
+- **Threestrand is not for children under 13.** We ask for age when you set up Threestrand, we do not knowingly collect personal information from anyone under 13, and if we learn we have, we delete it.
 
 ### What we collect about a teen
 The same things we collect about any user (see *Information We Collect*), and nothing extra. We do not collect a teen's location, contacts, photos, messages, or anything they type into other apps. We never show a teen ads, and we never sell or share a teen's information for advertising.
@@ -250,7 +252,7 @@ A parent sees the same things any accountability partner sees (see *What You Sha
 - Whether the teen's protection is set up and holding
 - The requests the teen sends, including any reason they type, and how those were answered
 - The teen's app time limits and schedules
-- When family time (Drop Anchor) is running, and whether the teen used an emergency pass during it
+- When family time (Phones away) is running, and whether the teen used an emergency pass during it
 
 A parent does not see the content of the teen's messages or apps, their location, their contacts, or which apps they use and for how long.
 
@@ -261,7 +263,7 @@ A parent or guardian can ask to review their teen's information, have it deleted
 
 ## Third-Party Services
 
-Anchor uses these third-party services:
+Threestrand uses these third-party services:
 
 | Service | Purpose | Privacy Policy |
 |---------|---------|----------------|
@@ -279,7 +281,7 @@ We may update this Privacy Policy from time to time. When we make significant ch
 - We'll update the "Last Updated" date at the top
 - For major changes, we'll notify you in the app
 
-Continued use of Anchor after changes constitutes acceptance of the updated policy.
+Continued use of Threestrand after changes constitutes acceptance of the updated policy.
 
 ---
 
@@ -295,7 +297,7 @@ Questions about this Privacy Policy?
 ## Summary of Recent Changes
 
 **Version 2.0 (September 25, 2026)**
-- Teens 13 to 17 can use Anchor inside a family with their parent or guardian. Anchor is not for children under 13.
+- Teens 13 to 17 can use Threestrand inside a family with their parent or guardian. Threestrand is not for children under 13.
 - Added *Teens and Families*: what we collect about a teen (nothing extra, no analytics, no ads), what a parent can see, and parents' rights to review or delete their teen's information.
 - App usage now stays on your phone: current versions no longer upload which apps you use or which blocked apps you tried to open, partners can no longer read that data, and the data uploaded by earlier versions is scheduled for deletion in October 2026.
 
@@ -308,19 +310,19 @@ Questions about this Privacy Policy?
 
 **Version 1.8 (July 26, 2026)**
 - Redesigned partner sharing: partners now see your setup status, your requests, and your
-  commitments. Current versions of Anchor no longer show partners your app usage or blocked-app
+  commitments. Current versions of Threestrand no longer show partners your app usage or blocked-app
   attempts. Added a transition note covering older app versions while usage syncing is wound down.
 
 **Version 1.7 (July 26, 2026)**
 - Expanded the Product & Usage Analytics examples to name the event types we record: screens
-  visited within Anchor, notification delivery and responses, settings changes, and sign-in
-  attempt outcomes. Same rule as before: events about your use of Anchor, never the content of
+  visited within Threestrand, notification delivery and responses, settings changes, and sign-in
+  attempt outcomes. Same rule as before: events about your use of Threestrand, never the content of
   your other apps.
 - Added an iPhone section: iOS blocking uses Apple's Screen Time framework, which by design keeps
-  the names of your selected apps hidden from Anchor.
+  the names of your selected apps hidden from Threestrand.
 
 **Version 1.6 (July 16, 2026)**
-- Disclosed product & usage analytics (behavioral events linked to your account, used to improve Anchor)
+- Disclosed product & usage analytics (behavioral events linked to your account, used to improve Threestrand)
 - Clarified that analytics events are retained for trend analysis and **irreversibly anonymized on account deletion**
 
 **Version 1.4 (January 20, 2025)**

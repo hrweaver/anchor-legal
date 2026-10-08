@@ -1,6 +1,6 @@
-# Anchor Support
+# Threestrand Support
 
-Need help with Anchor? We're a small team and we read everything.
+Need help with Threestrand? We're a small team and we read everything.
 
 ## Contact us
 
@@ -12,7 +12,7 @@ We usually reply within 1 business day.
 
 The fastest way to get a bug fixed is from inside the app:
 
-1. Open Anchor and go to the settings screen
+1. Open Threestrand and go to the settings screen
 2. Scroll to the **Feedback** section
 3. Tap **Report a Bug** and describe what happened
 4. You'll get an 8-character reference ID. Include it if you email us; it lets us see the
@@ -23,7 +23,7 @@ Feature ideas are welcome too, via **Request a Feature** in the same section.
 ## Common questions
 
 **How do I pair with my partner?**
-Both of you install Anchor. One of you opens the pairing screen and shows their code (or QR);
+Both of you install Threestrand. One of you opens the pairing screen and shows their code (or QR);
 the other enters or scans it. Pairing always requires both people to opt in.
 
 **How do I unpair?**

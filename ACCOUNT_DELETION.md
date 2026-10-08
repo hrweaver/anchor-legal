@@ -1,15 +1,15 @@
-# Deleting Your Anchor Account
+# Deleting Your Threestrand Account
 
-**App:** Anchor – Digital Wellbeing
+**App:** Threestrand: Present Together
 **Developer:** Harry Weaver
 
-Anchor lets you delete your account and all associated data at any time. There
+Threestrand lets you delete your account and all associated data at any time. There
 are two ways to do it.
 
-## Option 1 — Delete from inside the app (recommended)
+## Option 1: Delete from inside the app (recommended)
 
-1. Open **Anchor**.
-2. Tap the Anchor app on your home screen to open **Settings**.
+1. Open **Threestrand**.
+2. Tap the Threestrand app on your home screen to open **Settings**.
 3. Scroll to **Advanced**.
 4. Tap **Delete My Account** (shown as "Delete My Data" on older versions).
 5. Confirm. If you have an account with a password, you'll be asked to re-enter
@@ -17,10 +17,10 @@ are two ways to do it.
 
 This immediately removes your account and your data.
 
-## Option 2 — Request deletion by email
+## Option 2: Request deletion by email
 
 If you can't access the app, email **harry.r.weaver@gmail.com** from the address
-associated with your account, with the subject **"Delete my Anchor account"**.
+associated with your account, with the subject **"Delete my Threestrand account"**.
 We will delete your account and data within 30 days and confirm by reply.
 
 ## What gets deleted
