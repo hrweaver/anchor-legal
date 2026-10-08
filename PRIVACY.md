@@ -296,6 +296,9 @@ Questions about this Privacy Policy?
 
 ## Summary of Recent Changes
 
+
+**Version 2.1 (October 8, 2026)**
+- Renamed the app from Anchor to Threestrand. No change to what is collected or shared.
 **Version 2.0 (September 25, 2026)**
 - Teens 13 to 17 can use Threestrand inside a family with their parent or guardian. Threestrand is not for children under 13.
 - Added *Teens and Families*: what we collect about a teen (nothing extra, no analytics, no ads), what a parent can see, and parents' rights to review or delete their teen's information.

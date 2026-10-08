@@ -351,6 +351,9 @@ Questions about these Terms?
 
 ## Summary of Recent Changes
 
+
+**Version 2.1 (October 8, 2026)**
+- Renamed the app from Anchor to Threestrand. No change to what is collected or shared.
 **Version 2.0 (September 25, 2026)**
 - Teens 13 to 17 may use Threestrand inside a family that includes their parent or guardian, who agrees to these Terms for them. Children under 13 may not use Threestrand.
 - Added a Families section: roles, family time, what admitting a teen confirms, and what happens when the last adult leaves.
