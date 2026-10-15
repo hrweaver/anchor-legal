@@ -1,6 +1,6 @@
 # Threestrand Privacy Policy
 
-**Last Updated:** October 8, 2026 (Version 2.1)
+**Last Updated:** October 15, 2026 (Version 2.2)
 
 Threestrand was previously named Anchor. This document applies to the app under either name.
 
@@ -84,6 +84,11 @@ iPhone, that switch arrives in an upcoming release; until then, email
 [support@anchorph.one](mailto:support@anchorph.one) and we will switch it off for your
 account. Turning analytics off does not change how blocking, limits, or partner approvals
 work.
+
+### Our Website
+Our website counts taps on its App Store and Google Play buttons, along with the ad campaign
+that brought you there, so we can tell which ads lead to installs. It sets no cookies and
+records nothing that identifies you.
 
 ---
 
@@ -297,6 +302,8 @@ Questions about this Privacy Policy?
 ## Summary of Recent Changes
 
 
+**Version 2.2 (October 15, 2026)**
+- Added *Our Website*: the site counts taps on its store buttons and the ad campaign behind them, with no cookies and nothing that identifies you.
 **Version 2.1 (October 8, 2026)**
 - Renamed the app from Anchor to Threestrand. No change to what is collected or shared.
 **Version 2.0 (September 25, 2026)**
